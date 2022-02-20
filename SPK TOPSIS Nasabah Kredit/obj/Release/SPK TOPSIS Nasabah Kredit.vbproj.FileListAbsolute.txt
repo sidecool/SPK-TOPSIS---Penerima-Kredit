@@ -1,0 +1,14 @@
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Release\ResolveAssemblyReference.cache
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Release\SPK_TOPSIS_Nasabah_Kredit.fc1_pekerjaan.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Release\SPK_TOPSIS_Nasabah_Kredit.f_menu.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Release\SPK_TOPSIS_Nasabah_Kredit.Resources.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Release\SPK TOPSIS Nasabah Kredit.vbproj.GenerateResource.Cache
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\bin\Release\SPK TOPSIS Nasabah Kredit.exe
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\bin\Release\SPK TOPSIS Nasabah Kredit.pdb
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\bin\Release\SPK TOPSIS Nasabah Kredit.xml
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Release\SPK_TOPSIS_Nasabah_Kredit.fc2_modal.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Release\SPK_TOPSIS_Nasabah_Kredit.fc3_jaminan.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Release\SPK_TOPSIS_Nasabah_Kredit.fc4_penghasilan.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Release\SPK TOPSIS Nasabah Kredit.exe
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Release\SPK TOPSIS Nasabah Kredit.xml
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Release\SPK TOPSIS Nasabah Kredit.pdb

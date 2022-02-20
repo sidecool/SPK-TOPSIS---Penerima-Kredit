@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="SPK TOPSIS Nasabah Kredit.exe" version="1.0.0.0" publicKeyToken="d182016edc631049" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="LOGO-KOPERASI-INDONESIA.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SPK TOPSIS Nasabah Kredit" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="SPK TOPSIS Nasabah Kredit.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="MySql.Data" version="6.8.2.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SPK TOPSIS Nasabah Kredit.exe" size="1178624">
+      <assemblyIdentity name="SPK TOPSIS Nasabah Kredit" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>M0zdnHzYrDC98mzKwTlDBPM2FsM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="LOGO-KOPERASI-INDONESIA.ico" size="159238">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>vrHqNRKUE66Yf3lVtOHTv+nPCVg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="SPK TOPSIS Nasabah Kredit.exe.config" size="1660">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>hWpkkia+Ed4TQapOHHTJBDZoWJg=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=SERVER\SIDECOOL" issuerKeyHash="242cc2ec77a8f4672b2438ba35072555d156717d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>uOeg2XM62kNHhgB9Oe2LuQXhpHo=</DigestValue></Reference></SignedInfo><SignatureValue>LY7uhtSURxgJNZ95pYAPY7S5YRWslELFEv65dgQBkOAwcYGL3bcu1YdMwNBt0dVuIp1iEAnz/pk8uC9Nw6zLltSauJJKQA4G1obgmwEuU+mJxxML+gSwFew1l2W0GI1EhoczX/o6s/Lmzl4Wz7ROMwNX1n8JkCOnFMyknDuBo44=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wBP7FdHC2yUqOo54XSlDLWuYboLhplpSxu7XR6Gt4F9Uh9OBbxaeNQnJHXLaZK7NqHnQ4Sm9jB9qLhNpLPblxjkjQIYbY+5iAUUI9Rrd/0W5kTha9+t4wUEqvbUtcas2yNeVAN1dtLD81+DrDE2cf/WmQGr50WtuaeyI3sze8cU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="7aa4e105b98bed397d00864743da3a73d9a0e7b8" Description="" Url=""><as:assemblyIdentity name="SPK TOPSIS Nasabah Kredit.exe" version="1.0.0.0" publicKeyToken="d182016edc631049" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SERVER\SIDECOOL</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>fhEYNBqdi2wSqUypa4j1DaqzkRg=</DigestValue></Reference></SignedInfo><SignatureValue>Z9dNISWIRCySAClJH7Fq1im1j61FB1A5/nkXxChrHjSw+8Fx/jWuMFi3qic9qKhmav+6ewjGG8vtoDAbrwVLk/WFxSPFNmXV6ZcSZsW/3Yjo0PPyWs497W3zBYvqsWJL8pXyDClZf9LaRwirY3P9pRksJYiCVQzx5X75771kVBI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wBP7FdHC2yUqOo54XSlDLWuYboLhplpSxu7XR6Gt4F9Uh9OBbxaeNQnJHXLaZK7NqHnQ4Sm9jB9qLhNpLPblxjkjQIYbY+5iAUUI9Rrd/0W5kTha9+t4wUEqvbUtcas2yNeVAN1dtLD81+DrDE2cf/WmQGr50WtuaeyI3sze8cU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQGgSjgjPHE4lK1f8B4IbSJDANBgkqhkiG9w0BAQUFADApMScwJQYDVQQDHh4AUwBFAFIAVgBFAFIAXABTAEkARABFAEMATwBPAEwwHhcNMjAwNjE3MTc1NDAyWhcNMjEwNjE3MjM1NDAyWjApMScwJQYDVQQDHh4AUwBFAFIAVgBFAFIAXABTAEkARABFAEMATwBPAEwwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMAT+xXRwtslKjqOeF0pQy1rmG6C4aZaUsbu10ehreBfVIfTgW8WnjUJyR1y2mSuzah50OEpvYwfai4TaSz25cY5I0CGG2PuYgFFCPUa3f9FuZE4WvfreMFBKr21LXGrNsjXlQDdXbSw/Nfg6wxNnH/1pkBq+dFrbmnsiN7M3vHFAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEARGoSJ9Vhjx57YXh84BNPyAfsAjxBQ3meMrLOZIO4ZDRK50wkRM50PGwfh5Ss167NOEzIQEED5w9O9b5v11PnwumAyWhm0JvX41C8Ajt0u/3vqniWp8Z3nj5Vn+RJDR4yiUci0tCioFLsYkfntXRZqPTlb+o9ditGN+ffT+3PZ2w=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

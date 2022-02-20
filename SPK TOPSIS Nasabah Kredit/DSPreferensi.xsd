@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSPreferensi" targetNamespace="http://tempuri.org/DSPreferensi.xsd" xmlns:mstns="http://tempuri.org/DSPreferensi.xsd" xmlns="http://tempuri.org/DSPreferensi.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="dbspk_kreditConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="dbspk_kreditConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SPK_TOPSIS_Nasabah_Kredit.My.MySettings.GlobalReference.Default.dbspk_kreditConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSPreferensi" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSPreferensi" msprop:Generator_DataSetName="DSPreferensi" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TablePreferensi" msprop:Generator_UserTableName="TablePreferensi" msprop:Generator_RowDeletedName="TablePreferensiRowDeleted" msprop:Generator_RowChangedName="TablePreferensiRowChanged" msprop:Generator_RowClassName="TablePreferensiRow" msprop:Generator_RowChangingName="TablePreferensiRowChanging" msprop:Generator_RowEvArgName="TablePreferensiRowChangeEvent" msprop:Generator_RowEvHandlerName="TablePreferensiRowChangeEventHandler" msprop:Generator_TableClassName="TablePreferensiDataTable" msprop:Generator_TableVarName="tableTablePreferensi" msprop:Generator_RowDeletingName="TablePreferensiRowDeleting" msprop:Generator_TablePropName="TablePreferensi">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Kode" msprop:Generator_UserColumnName="Kode" msprop:Generator_ColumnVarNameInTable="columnKode" msprop:Generator_ColumnPropNameInRow="Kode" msprop:Generator_ColumnPropNameInTable="KodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Nama_x0020_Pemohon" msprop:Generator_UserColumnName="Nama Pemohon" msprop:Generator_ColumnVarNameInTable="columnNama_Pemohon" msprop:Generator_ColumnPropNameInRow="Nama_Pemohon" msprop:Generator_ColumnPropNameInTable="Nama_PemohonColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Positif" msprop:Generator_UserColumnName="Positif" msprop:Generator_ColumnVarNameInTable="columnPositif" msprop:Generator_ColumnPropNameInRow="Positif" msprop:Generator_ColumnPropNameInTable="PositifColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Negatif" msprop:Generator_UserColumnName="Negatif" msprop:Generator_ColumnVarNameInTable="columnNegatif" msprop:Generator_ColumnPropNameInRow="Negatif" msprop:Generator_ColumnPropNameInTable="NegatifColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Preferensi" msprop:Generator_UserColumnName="Preferensi" msprop:Generator_ColumnVarNameInTable="columnPreferensi" msprop:Generator_ColumnPropNameInRow="Preferensi" msprop:Generator_ColumnPropNameInTable="PreferensiColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Rank" msprop:Generator_UserColumnName="Rank" msprop:Generator_ColumnVarNameInTable="columnRank" msprop:Generator_ColumnPropNameInRow="Rank" msprop:Generator_ColumnPropNameInTable="RankColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

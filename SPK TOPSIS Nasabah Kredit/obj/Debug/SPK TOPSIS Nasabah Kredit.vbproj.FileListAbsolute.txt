@@ -1,0 +1,92 @@
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\bin\Debug\SPK TOPSIS Nasabah Kredit.exe
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\bin\Debug\SPK TOPSIS Nasabah Kredit.pdb
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\bin\Debug\SPK TOPSIS Nasabah Kredit.xml
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Debug\ResolveAssemblyReference.cache
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_menu.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.Resources.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.vbproj.GenerateResource.Cache
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.exe
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.xml
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.pdb
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_kriteria.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_nasabah.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_sub_kriteria.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_topsis.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_login.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit\SPK TOPSIS Nasabah Kredit\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_ganti_paswd.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Copy)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.exe
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Copy)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.xml
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Copy)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.pdb
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Copy)\SPK TOPSIS Nasabah Kredit\bin\Debug\SPK TOPSIS Nasabah Kredit.exe
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Copy)\SPK TOPSIS Nasabah Kredit\bin\Debug\SPK TOPSIS Nasabah Kredit.pdb
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Copy)\SPK TOPSIS Nasabah Kredit\bin\Debug\SPK TOPSIS Nasabah Kredit.xml
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Copy)\SPK TOPSIS Nasabah Kredit\obj\Debug\ResolveAssemblyReference.cache
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Copy)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_ganti_paswd.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Copy)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_kriteria.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Copy)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_login.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Copy)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_menu.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Copy)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_nasabah.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Copy)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_sub_kriteria.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Copy)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_topsis.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Copy)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.Resources.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Copy)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.vbproj.GenerateResource.Cache
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Copy)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_cari.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Copy)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_laporan.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.exe
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.pdb
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\bin\Debug\SPK TOPSIS Nasabah Kredit.exe
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\bin\Debug\SPK TOPSIS Nasabah Kredit.pdb
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\ResolveAssemblyReference.cache
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_cari.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_ganti_paswd.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_kriteria.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_laporan.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_login.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_menu.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_nasabah.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_sub_kriteria.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_topsis.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.Resources.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.vbproj.GenerateResource.Cache
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\bin\Debug\SPK TOPSIS Nasabah Kredit.exe.config
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_dbconfig.resources
+G:\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\bin\Debug\SPK TOPSIS Nasabah Kredit.exe.config
+G:\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.exe
+G:\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.pdb
+G:\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\bin\Debug\SPK TOPSIS Nasabah Kredit.exe
+G:\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\bin\Debug\SPK TOPSIS Nasabah Kredit.pdb
+G:\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\ResolveAssemblyReference.cache
+G:\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_cari.resources
+G:\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_ganti_paswd.resources
+G:\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_kriteria.resources
+G:\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_laporan.resources
+G:\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_login.resources
+G:\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_menu.resources
+G:\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_nasabah.resources
+G:\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_dbconfig.resources
+G:\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_sub_kriteria.resources
+G:\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_topsis.resources
+G:\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.Resources.resources
+G:\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Perbaikan 1)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.vbproj.GenerateResource.Cache
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\bin\Debug\SPK TOPSIS Nasabah Kredit.exe.config
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.exe
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.pdb
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\bin\Debug\SPK TOPSIS Nasabah Kredit.exe
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\bin\Debug\SPK TOPSIS Nasabah Kredit.pdb
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\obj\Debug\ResolveAssemblyReference.cache
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_cari.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_ganti_paswd.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_kriteria.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_laporan.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_login.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_menu.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_nasabah.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_dbconfig.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_sub_kriteria.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.f_topsis.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK_TOPSIS_Nasabah_Kredit.Resources.resources
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.vbproj.GenerateResource.Cache
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\bin\Debug\SPK TOPSIS Nasabah Kredit.exe.manifest
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\bin\Debug\SPK TOPSIS Nasabah Kredit.application
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.exe.manifest
+D:\@PROJECT\@SKRIPSI\7. Chia Merauke\Program\SPK TOPSIS - Penerima Kredit (Final)\SPK TOPSIS Nasabah Kredit\obj\Debug\SPK TOPSIS Nasabah Kredit.application
